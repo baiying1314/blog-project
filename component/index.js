@@ -1,2 +1,1 @@
-import Hello from './hello/index.js';
-import World from './world/index.js';
+import Main from './main.js';

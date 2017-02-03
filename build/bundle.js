@@ -9563,7 +9563,7 @@ var Hello = function (_React$Component) {
     return Hello;
 }(_react2.default.Component);
 
-_reactDom2.default.render(_react2.default.createElement(Hello, null), document.getElementById('world'));
+_reactDom2.default.render(_react2.default.createElement(Hello, null), document.getElementById('homepage'));
 
 /***/ }),
 /* 83 */
